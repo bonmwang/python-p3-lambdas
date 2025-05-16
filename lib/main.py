@@ -19,3 +19,4 @@ def myfunc(x):
 
 sum_times_2 = myfunc(2)
 print(sum_times_2(10, 20))
+
